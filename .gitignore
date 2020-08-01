@@ -1,3 +1,4 @@
 **/data
 *.txt
 */.*
+**/best_model.pt
